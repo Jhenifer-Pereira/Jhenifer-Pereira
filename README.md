@@ -6,6 +6,3 @@
 - 🎸 Fun fact: I have a music studio in my house where I spend a good part of my time playing instruments, singing...(or trying to sing 😂)
 
 I'm always open to new friends! 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhenifer-Pereira&show_icons=true&theme=radical)
-
