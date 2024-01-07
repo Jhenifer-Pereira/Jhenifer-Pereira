@@ -6,3 +6,6 @@
 - 🎸 Fun fact: I have a music studio in my house where I spend a good part of my time playing instruments, singing...(or trying to sing 😂)
 
 I'm always open to new friends! 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhenifer-pereira-a64351264/)
+
